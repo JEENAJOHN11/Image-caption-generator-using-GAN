@@ -1,1 +1,3 @@
 # mini_project
+
+Image Caption Generator using GAN with Collaborative Learning represents a cutting-edge fusion of two influential concepts in machine learning. In this captivating convergence of GANs and Collaborative Learning, the image caption generator embarks on a journey to not merely describe visual content but to narrate it with creativity and coherence. Applications of this technology span across various domains, including content generation for visually impaired individuals, automatic metadata generation for image databases, and enriching multimedia content with descriptive narratives.
